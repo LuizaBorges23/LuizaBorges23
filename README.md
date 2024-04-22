@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @LuizaBorges23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+package luizateste;
+import java.util.Scanner;
+public class atividades {
 
-<!---
-LuizaBorges23/LuizaBorges23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+	private static final String B = " " ;
+	private static final String A = " ";
+
+	public static void main(String[] args) {
+	      Scanner sc = new Scanner(System.in);	
+	      System.out.println(" " + A);
+	      int A = sc.nextInt();
+	      System.out.println(" " + B);
+	      int B = sc.nextInt();
+	      int X = A + B;
+	      System.out.println("X  ="+ X);
+
+	}
+
+}
+
+
