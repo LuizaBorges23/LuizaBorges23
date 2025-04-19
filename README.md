@@ -18,4 +18,5 @@
   <img align="center" alt="Spring boot" src="https://img.shields.io/badge/Springboot-43853D?style=for-the-badge&logo=springboot&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-43853D?style=for-the-badge&logo=sql&logoColor=white" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-43853D?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-43853D?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
