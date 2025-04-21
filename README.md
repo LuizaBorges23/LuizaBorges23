@@ -28,9 +28,7 @@
 
 ###
 
-<div align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://open.spotify.com/intl-pt/track/5PJH1U5Iie893v48Fl9yaC?si=b7ab9462db5d4d50)" alt="Spotify recently played"  />
-</div>
+<img src="https://raw.githubusercontent.com/LuizaBorges23/LuizaBorges23/output/snake.svg" alt="Snake animation" />
 
 ###
 
