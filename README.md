@@ -31,6 +31,5 @@
 
 <br clear="both">
 
-<imagem alinhar="certo" alt="Trinh Minh Triet" fonte="imagens/codificação.git" largura="320px" />
 
 ###
