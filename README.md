@@ -7,13 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaBorges23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+
+
 ###
 
 <img align="right" height="150" src="file:///C:/Users/lulub/Downloads/Imagem%20do%20WhatsApp%20de%202025-04-16%20%C3%A0(s)%2013.20.22_08151367-fotor-ai-art-effects-20250421182645.jpg"  />
 
 ###
-
-
 
 
 <div align="left">
