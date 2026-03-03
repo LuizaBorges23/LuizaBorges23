@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! My name is Maria Luiza Borges</h2>
+<h2 alinhar="esquerda">Olá 👋! Meu nome é Maria Luiza Borges</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizaBorges23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<div/>
+<dividir alinhar="centro">
+<imagem fonte="https://github-readme-stats.vercel.app/api?username=LuizaBorges23&ocultar_título=falso&ocultar_classificação=falso&maisrar_ícones=verdadeiro&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro&desabilitar_animações=falso&tema=drácula&localidade=en&ocultar_fronteira=falso" alta="150" alt="gráfico de estatísticas"  />
+<dividir/>
   
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaBorges23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <dividir alinhar="centro">
+  <imagem fonte="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaBorges23&localidade=en&ocultar_título=falso&layout=compacto&largura_do cartão=320&contagem_langs=5&tema=drácula&ocultar_fronteira=falso" alta="150" alt="gráfico de idiomas"  />
+</dividir>
 
 
 
@@ -16,7 +16,7 @@
 ###
 
 
-<img align="right" height="150" src="file:///C:/Users/lulub/Downloads/Imagem%20do%20WhatsApp%20de%202025-04-16%20%C3%A0(s)%2013.20.22_08151367-fotor-ai-art-effects-20250421182645.jpg"  />
+<imagem alinhar="certo" alta="150" fonte="arquivo:///C:/Usuários/lulub/Downloads/Imagem%20do%20WhatsApp%20de%202025-04-16%20%C3%A0(s)%2013.20.22_08151367-fotor-ai-art-effects-20250421182645.jpg"  />
 
 
 ###
