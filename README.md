@@ -55,8 +55,7 @@
   <imagem largura="12" />
 </dividir>
 
-
-<br claro="ambos">
+##
 
 ###
 <h3 alinhar="esquerda">Conecte-se amigo:</h3>
