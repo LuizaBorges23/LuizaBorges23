@@ -43,7 +43,7 @@
   <imagem largura="12" />
   <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alta="30" alt="logotipo da figura" />
 "centro"ma#alinharwidth</"12" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alta="30" alt="logotipo Linux" />
+ "centro"ma#fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alta="30" alt="logotipo Linux" />
   <</"esquerda"alinhar"12" />
 "centro"<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alta="30" alt="logotipo postgresql"/>
 ###<imagem largura="12" />
@@ -67,7 +67,7 @@
 <a href="https://www.youtube.com/@luiza7524" alto="em branco"><imagem alinhar="centro" fonte="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" alta="30" largura="40" /></a>
 </p>
 
-
+###
 
 ![Texto alternativo](https://spotify-recently-played-readme.vercel.app/api?user=31bffzg2c5o5qgq5fuhaiwnjaem4)
 
