@@ -1,4 +1,4 @@
-<h2 alinhar="esquerda">Olá 👋! Meu nome é Maria Luiza Borges</h2>
+<h2 >Olá 👋! Meu nome é Maria Luiza Borges
 
 ###
 
@@ -22,65 +22,53 @@
 ###
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  height="30" alt="c# logo"/>
-  <img width="12" />
-</div>
+<dividir alinhar="esquerda">
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alta="30" alt="logotipo javascript"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alta="30" alt="logotipo datilografado"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alta="30" alt="logotipo html5"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alta="30" alt="logotipo css3"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alta="30" alt="logotipo python"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alta="30" alt="logotipo Java"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alta="30" alt="logotipo do github"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alta="30" alt="logotipo git"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alta="30" alt="logotipo c"  />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alta="30" alt="logotipo da figura" />
+"centro"ma#alinharwidth</"12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alta="30" alt="logotipo Linux" />
+  <</"esquerda"alinhar"12" />
+"centro"<imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alta="30" alt="logotipo postgresql"/>
+###<imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alta="30" alt="logotipo vscode"/>
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alta="30" alt="logotipo c++" />
+  <imagem largura="12" />
+  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  alta="30" alt="logotipo c#"/>
+  <imagem largura="12" />
+</dividir>
 
 
-<br clear="both">
+<br claro="ambos">
 
 ###
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/LuizaBo80235109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/maria-luiza-borges-b561602b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lu.borges_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@luiza7524" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<h3 alinhar="esquerda">Conecte-se amigo:</h3>
+<p alinhar="esquerda">
+<a href="https://x.com/LuizaBo80235109" alto="em branco"><imagem alinhar="centro" fonte="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" alta="30" largura="40" /></a>
+<a href="https://www.linkedin.com/in/maria-luiza-borges-b561602b6/" alto="em branco"><imagem alinhar="centro" fonte="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" alta="30" largura="40" /></a>
+<a href="https://www.instagram.com/lu.borges_/" alto="em branco"><imagem alinhar="centro" fonte="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" alta="30" largura="40" /></a>
+<a href="https://www.youtube.com/@luiza7524" alto="em branco"><imagem alinhar="centro" fonte="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" alta="30" largura="40" /></a>
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/LuizaBorges23/LuizaBorges23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/LuizaBorges23/LuizaBorges23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/LuizaBorges23/LuizaBorges23/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bffzg2c5o5qgq5fuhaiwnjaem4)
+![Texto alternativo](https://spotify-recently-played-readme.vercel.app/api?user=31bffzg2c5o5qgq5fuhaiwnjaem4)
 
 ###
