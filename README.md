@@ -44,4 +44,7 @@ const luiza = {
     }
 };
 ```
+###
+<img src="https://raw.githubusercontent.com/LuizaBorges23/LuizaBorges23/output/snake.svg" alt="Snake animation" />
+###
 
