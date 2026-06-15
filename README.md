@@ -26,7 +26,7 @@
 ###
 
 - Sou estudante de engenharia de software na Universidade Católica do Salvador!
-- 5°semestre 
+- 6°semestre 
 
 
 
